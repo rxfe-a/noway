@@ -1,0 +1,455 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  background-color: #0d0d0d;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: "Montserrat", sans-serif;
+  height: 100vh;
+}
+
+.BrowserBeginPart {
+  position: fixed;
+  top: 0.3%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  width: 80%;
+  border-radius: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  gap: 3.5px;
+  background-color: #171717;
+}
+
+.BrowserBeginPart a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #696969;
+  width: 40px;
+  height: 40px;
+  border-radius: 150px;
+  background-color: #232323;
+  -webkit-user-select: none;
+  user-select: none;
+  background-position: center;
+  transition: background 0.5s;
+}
+
+.BrowserBeginPart a:hover {
+  background: #2f2f2f radial-gradient(circle, transparent 1%, #4f4f4f 1%) center/15000%;
+}
+
+.BrowserBeginPart a:active {
+  background-color: #3d3d3d;
+  background-size: 100%;
+  transition: background 0s;
+}
+
+#searchway {
+  height: 35px;
+  width: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.geek {
+  width: 100%;
+  height: 35px;
+  text-align: center;
+  color: white;
+  border: none;
+  background-color: #232323;
+  border-radius: 300px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.geek:focus {
+  outline: none;
+  border: rgb(47, 47, 47) solid 3px;
+  font-style: italic;
+}
+.BrowserFrame {
+  width: 100%;
+  height: 95vh;
+  border: none;
+}
+
+
+.HomePageDividend {
+  width: 100%;
+  height: 100%;
+  background-image: url("../build/images/waves.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#OurLogo {
+  width: 350px;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.SearchDiv {
+  background: rgba(53, 53, 53, 0.407);
+ border-radius: 16px;
+ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.048);
+ backdrop-filter: blur(15.6px);
+ -webkit-backdrop-filter: blur(17.6px);
+  display: flex;
+  flex-direction: row;
+  width: 550px;
+  font-family: "Montserrat", sans-serif;
+  height: 55px;
+  align-items: center;
+}
+
+.SearchLogoHold {
+  height: 50px;
+  width: 50px;
+  margin-left: 2px;
+  background: rgba(74, 74, 74, 0.633);
+  backdrop-filter: blur(15.6px);
+ -webkit-backdrop-filter: blur(17.6px);
+ border-radius: 16px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.SearchLogoHold img {
+  width:  35px;
+  height: 35px;
+}
+
+#FormIdentification {
+  width: 90%;
+  height: 50px;
+}
+
+#addressbox {
+  width: inherit;
+  height: inherit;
+  border: none;
+  text-align: center;
+  background-color: transparent;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-size: 0;
+  animation: revealText 1s forwards;
+}
+
+#addressbox:focus {
+  outline: none;
+}
+
+@keyframes revealText {
+  from {
+    font-size: 0;
+  }
+  to {
+    font-size: 15px;
+  }
+}
+
+.AppHoldDiv {
+  width: 550px;
+  height: 65px;
+  display: flex;
+  margin-top: 25px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.QuickHomeAccess {
+  width: 90px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.QuickHomeAccess a {
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #8a8a8a;
+  height: 75px;
+  background: hsla(0, 0%, 20%, 1);
+
+background: linear-gradient(135deg, hsla(0, 0%, 20%, 1) 0%, hsla(0, 0%, 7%, 1) 100%);
+
+background: -moz-linear-gradient(135deg, hsla(0, 0%, 20%, 1) 0%, hsla(0, 0%, 7%, 1) 100%);
+
+background: -webkit-linear-gradient(135deg, hsla(0, 0%, 20%, 1) 0%, hsla(0, 0%, 7%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#323232", endColorstr="#111111", GradientType=1 );
+border-radius: 12px;
+border: 2px #373737 solid;
+}
+
+.QuickHomeAccess p {
+  height: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 11px;
+}
+
+.QuickHomeAccess span {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-user-select: none;
+  font-size: 35px;
+}
+
+
+.BrowserActionMenu {
+  position: fixed;
+  top: 9%;
+  animation: fadeIn 0.2s ease forwards;
+  display: none;
+  align-items: center;
+  left: 18%;
+  flex-direction: column;
+  transform: translateX(-50%);
+  z-index: 9998;
+  width: 230px;
+  height: 350px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 8px;
+}
+
+.BrowserActionMenu button {
+  width: 215px;
+  height: 43px;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  background-color: transparent;
+}
+
+.BrowserActionMenu button:hover {
+  background-color: rgb(37, 37, 37);
+}
+
+.BrowserActionMenu span {
+  margin-right: 8px;
+  font-weight: 100;
+}
+
+.BrowserBG {
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+}
+
+.TabManagement {
+  position: fixed;
+  top: 10%;
+  display: flex;
+  align-items: center;
+  left: 50%;
+  flex-direction: column;
+  transform: translateX(-50%);
+  z-index: 9995;
+  width: 80%;
+  height: 600px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 8px;
+  opacity: 0;
+  animation: fadeIn 0.2s ease forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.TabManagementTopBar {
+  width: 100%;
+  height: 40px;
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+}
+
+.TabManagementTopBar p {
+  color: white;
+  margin-left: 15px;
+}
+
+.TabManagementXButton {
+  width: 35px;
+  border: none;
+  background-color: #545454;
+  border-radius: 300px;
+  margin-left: auto;
+  margin-right: 5px;
+  color: white;
+  height: 35px;
+}
+
+.TabHold {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.TabPiece {
+  width: 220px;
+  height: 150px;
+  border-radius: 8px;
+  background-color: #212121;
+}
+
+.Tabadab {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 35px;
+  background-color: #2f2f2f;
+  border-top-left-radius: 8px;
+  color: white;
+  align-items: center;
+  border-top-right-radius: 8px;
+}
+
+.TabIMG {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.TabIMG img {
+  width: 50px;
+  height: 50px;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.AddButton {
+  width: 150px;
+  border-radius: 8px;
+  height: 150px;
+  background-color: #232323;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.AddButton img {
+  width: 100px;
+  height: 100px;
+}
+
+
+.BareStatus {
+  width: 250px;
+  background-color: #161616;
+  align-items: center;
+  border-radius: 150px;
+  border: 1px solid #282828;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.BareStatus p {
+  color: white;
+  margin-left: 10px;
+  font-weight: 50;
+}
+
+.BareStatus a {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(41, 41, 41);
+  font-size: 0;
+  border-radius: 150px;
+  margin-left: auto;
+  margin-right: 15px;
+}
+
+.QuickHomeButton {
+  width: 45px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 150px;
+  height: 45px;
+  display: none;
+  flex-direction: row;
+  position: fixed;
+  top: 5px;
+  justify-content: center;
+  align-items: center;
+  right: 5px;
+}
+
+.QuickHomeButton button {
+  border: none;
+  border-radius: 150px;
+  width: 38px;
+  height: 38px;
+  background-color: #282828;
+  color: rgb(152, 152, 152);
+  font-weight: 150;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background-color: #121212;
+  border-radius: 15px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #373737; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(111, 111, 111); 
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="icon" type="image/png" href="https://ssl.gstatic.com/classroom/favicon.png">
+    <script>
+        window.addEventListener('beforeunload', function(e) {
+      e.preventDefault();
+      e.returnValue = '';
+    });
+      </script>
+    <title>Home</title>
+</head>
+<body>
+        <div class="BrowserBeginPart">
+            <a id="More" onclick="
+            var actionM = document.getElementById('ActionM');
+actionM.style.display = actionM.style.display === 'flex' ? 'none' : 'flex';
+            ">
+                <span class="material-symbols-outlined">
+                    more_vert
+                    </span>
+            </a>
+            <a id="Back">
+                <span class="material-symbols-outlined">
+                    arrow_back
+                    </span>
+            </a>
+            <a id="Forward">
+                <span class="material-symbols-outlined">
+                    arrow_forward
+                    </span>
+            </a>
+            <form id="searchway">
+                <input type="text" placeholder="Search the Web" class="geek" id="searchway_input"></input>
+            </form>
+            <a id="add" onclick="tabModule.NewTab()">
+                <span class="material-symbols-outlined">
+                    add
+                    </span>
+            </a>
+            <a id="TabHolder">
+                <span class="material-symbols-outlined">
+                    tab_group
+                    </span>
+            </a>
+        </div>
+        <div class="BrowserActionMenu" id="ActionM">
+            <button id="refreshbutton"><span class="material-symbols-outlined"> refresh </span>Reload Page</button>
+            <button id="homepage"><span class="material-symbols-outlined"> home </span>Home</button>
+            <button id="ngg"><span class="material-symbols-outlined"> build </span>Fix NowGG</button>
+            <button id="fullscreen"><span class="material-symbols-outlined"> fullscreen </span>Fullscreen</button>
+            <button id="javascript_"><span class="material-symbols-outlined"> javascript </span>Inject JavaScript</button>
+            <button id="inspectelement"><span class="material-symbols-outlined"> code </span>Inspect Element</button>
+            <button><span class="material-symbols-outlined"> hide </span>Hide Topbar</button>   
+        </div>
+
+        <div class="TabManagement"  id="tabmanagerc" style="display: none;">
+            <div class="TabManagementTopBar">
+                <p>Tab Manager</p>
+                <button class="TabManagementXButton" id="XB">
+                    X
+                </button>
+                
+            </div>
+            <div class="TabHold" id="TabHold">
+            <!--
+                <div class="TabPiece">
+                    <div class="Tabadab">
+                        <p style="margin-left: 5px;">Tab 1</p>
+                        <button class="TabManagementXButton">
+                            X
+                        </button>
+                    </div>
+                    <div class="TabIMG">
+                        <img src="image/TabADF.png">
+                    </div>
+            </div>
+            -->
+               <div class="AddButton" id="AddButton" onclick="tabModule.NewTab()">
+                    <img src="image/add.png">
+               </div>
+            </div>
+        </div>
+        <div class="BrowserBG"></div>
+        <!--
+            <iframe src="homepage.html" class="BrowserFrame"></iframe>
+        -->
+        <div class="QuickHomeButton" id="QuickHomeButton">
+            <button id="QuickAccessHome">
+                <span class="material-symbols-outlined"> home </span>
+            </button>
+        </div>
+        <script src="js/TabModule.js"></script>
+        <script src="js/BasicPageFunctions.js"></script>
+        <script src="js/search-module.js"></script>
+        <script src="build/bundle.js" defer></script>
+        <script src="build/config.js" defer></script>
+        <script src="./js/postAPI-Parent.js"></script>
+        <script src="dynamic/dynamic.config.js"></script>
+</body>
+</html>

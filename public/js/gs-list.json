@@ -1,0 +1,896 @@
+[
+  {
+    "Name": "Volleyball Random",
+    "URL": "https://files.twoplayergames.org/files/games/o1/Volley_random/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/volleyball.png"
+  },
+  {
+    "Name": "Minecraft Classic",
+    "URL": "https://classic.minecraft.net/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/mc-classic.jpg"
+  },
+  {
+    "Name": "FNAF 2",
+    "URL": "https://sussygamedeveloper.github.io/FNAF2/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/FNAF2.png"
+  },
+  {
+    "Name": "Akinator",
+    "URL": "https://en.akinator.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/akinator.webp"
+  },
+  {
+    "Name": "FNAF 3",
+    "URL": "https://sussygamedeveloper.github.io/fnaf3/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/FNAF3.png"
+  },
+  {
+    "Name": "Draw Climber",
+    "URL": "https://www.miniplay.com/embed/draw-climber",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/draw-climber.jpg"
+  },
+  {
+    "Name": "BTD4",
+    "URL": "https://en.gameslol.net/data/bloons-td-4/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/btd4.webp"
+  },
+  {
+    "Name": "Dogecoin Miner",
+    "URL": "https://assets.3kh0.net/DogeMiner/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/doge.jpg"
+  },
+  {
+    "Name": "1v1.lol",
+    "URL": "https://1v1.lol",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/1v1-lol.webp"
+  },
+  {
+    "Name": "Zombs Royale",
+    "URL": "https://zombsroyale.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/zombs.jpeg"
+  },
+  {
+    "Name": "Temple Run 2",
+    "URL": "https://assets.3kh0.net/temple-run-2/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/og-Icon.png"
+  },
+  {
+    "Name": "Power Line",
+    "URL": "https://powerline.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/powerline.jpg"
+  },
+  {
+    "Name": "Roblox",
+    "URL": "https://nowgg.nl/iframe/snippet?app_pkg=com.roblox.client&partner=RafeLabs",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/nowgg/roblox.png"
+  },
+  {
+    "Name": "Fortnite",
+    "URL": "https://nowgg.nl/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=RafeLabs",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/nowgg/Fortnite.png"
+  },
+  {
+    "Name": "Call Of Duty Mobile",
+    "URL": "https://nowgg.nl/iframe/snippet?app_pkg=com.activision.callofduty.shooter&partner=RafeLabs",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/nowgg/cod.png"
+  },
+  {
+    "Name": "Fruit Ninja",
+    "URL": "https://ubg365.github.io/fruit-ninja/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/fruitninja.png"
+  },
+  {
+    "Name": "Tiny Fishing",
+    "URL": "https://assets.3kh0.net/tiny-fishing/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/tinyfishing.png"
+  },
+  {
+    "Name": "AC - Wild World",
+    "URL": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/animal-crossing-wild-world1.zip",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/acww.webp"
+  },
+  {
+    "Name": "Lego Batman",
+    "URL": "https://math-study.github.io/gba/launchpad.html?gameID=7754&gametitle=LEGO_Batman_-_The_Videogame_(USA)_(EnFrEs)&fav=true",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/lego.jpg"
+  },
+  {
+    "Name": "3D Dino Run",
+    "URL": "https://lagged.com/api/play2/t-rex-3d2/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/trex-run-3D.webp"
+  },
+  {
+    "Name": "Moomoo io",
+    "URL": "https://moomoo.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/moomooimg.png"
+  },
+  {
+    "Name": "Duck life",
+    "URL": "https://assets.3kh0.net/ducklife1/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/ducklife.webp"
+  },
+  {
+    "Name": "Duck life 2",
+    "URL": "https://assets.3kh0.net/ducklife2/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/ducklife.webp"
+  },
+  {
+    "Name": "Duck life 3",
+    "URL": "https://assets.3kh0.net/ducklife3/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/ducklife.webp"
+  },
+  {
+    "Name": "Duck life 4",
+    "URL": "https://assets.3kh0.net/ducklife4/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/ducklife.webp"
+  },
+  {
+    "Name": "Pixel Shooter",
+    "URL": "https://94bfktj403i6m18as4vkvtreqd0ohci4-a-sites-opensocial.googleusercontent.com/gadgets/ifr?URL=https://274019683-173520394482650759.preview.editmysite.com/uploads/b/139890129-131715539788281629/files/ps.xml",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/pixel-shooter.webp"
+  },
+  {
+    "Name": "doodle jump",
+    "URL": "https://assets.3kh0.net/doodle-jump/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/doodle.png"
+  },
+  {
+    "Name": "Slope",
+    "URL": "https://kdata1.com/2020/05/slope/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/slope.png"
+  },
+  {
+    "Name": "Google Snake",
+    "URL": "https://www.google.com/search?q=google+snake",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/googlesnake.png"
+  },
+  {
+    "Name": "Super Mario 64",
+    "URL": "https://assets.3kh0.net/sm64/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/SuperMario.png"
+  },
+  {
+    "Name": "SuperHot",
+    "URL": "https://assets.3kh0.net/superhot/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/hot.jpg"
+  },
+  {
+    "Name": "Vex3",
+    "URL": "https://assets.3kh0.net/superhot/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/vex3.png"
+  },
+  {
+    "Name": "Vex4",
+    "URL": "https://assets.3kh0.net/vex4/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/vex4.png"
+  },
+  {
+    "Name": "Vex5",
+    "URL": "https://assets.3kh0.net/vex5/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/vex.jpeg"
+  },
+  {
+    "Name": "Vex6",
+    "URL": "https://assets.3kh0.net/vex6/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/Icon.png"
+  },
+  {
+    "Name": "Vex7",
+    "URL": "https://assets.3kh0.net/vex7/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/vex7.png"
+  },
+  {
+    "Name": "Plants Vs Zombies",
+    "URL": "https://images-opensocial.googleusercontent.com/gadgets/ifr?URL=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fplants-vs-zombies.xml",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/plantsvszombies.webp"
+  },
+  {
+    "Name": "Rocket Royale",
+    "URL": "https://rocketbotroyale2.winterpixel.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/rocketbotroyale.webp"
+  },
+  {
+    "Name": "Getaway Shootout",
+    "URL": "https://games.crazygames.com/en_US/getaway-shootout/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/getaway.png"
+  },
+  {
+    "Name": "Bad Piggies",
+    "URL": "https://raw.githack.com/LuminixServices/SeismeticV2/main/static/ruffle/badpiggies.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/badpiggies.png"
+  },
+  {
+    "Name": "Red Ball 4",
+    "URL": "https://www.minijuegos.mx/embed/red-ball-4",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/redball4.png"
+  },
+  {
+    "Name": "Eggy Car",
+    "URL": "https://webglmath.github.io/eggy-car/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/eggycar.jpg"
+  },
+  {
+    "Name": "Paper IO",
+    "URL": "https://paper-io.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/paperiofix.png"
+  },
+  {
+    "Name": "Basket Random",
+    "URL": "https://www.twoplayergames.org/gameframe/basket-random",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/br.webp"
+  },
+  {
+    "Name": "Basketball Stars",
+    "URL": "https://assets.3kh0.net/basketball-stars/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/basketball-stars.png"
+  },
+  {
+    "Name": "Run 3",
+    "URL": "https://en.gameslol.net/data/run-3/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/run3.png"
+  },
+  {
+    "Name": "2048",
+    "URL": "https://assets.3kh0.net/2048/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/2048.png"
+  },
+  {
+    "Name": "krunker.io",
+    "URL": "https://sv.browserfps.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/krunker.jpg"
+  },
+  {
+    "Name": "slither.io",
+    "URL": "https://slither.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/slither.png"
+  },
+  {
+    "Name": "agar.io",
+    "URL": "https://agar.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/agario.png"
+  },
+  {
+    "Name": "diep.io",
+    "URL": "https://diep.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/diep.webp"
+  },
+  {
+    "Name": "justfall.lol",
+    "URL": "https://justfall.lol",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/just-fall-lol.webp"
+  },
+  {
+    "Name": "Subway Surfers",
+    "URL": "https://assets.3kh0.net/subway-surfers-ny/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/SubwaySurfers.png"
+  },
+  {
+    "Name": "8 Ball Pool",
+    "URL": "https://8ball-pool.io",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/8ball.webp"
+  },
+  {
+    "Name": "Drive Mad",
+    "URL": "https://assets.3kh0.net/drive-mad/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/dm.webp"
+  },
+  {
+    "Name": "Elastic Man",
+    "URL": "https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/elasticman.png"
+  },
+  {
+    "Name": "Mario Kart 64",
+    "URL": "https://f.kbhgames.com/r/n64/game.php?file=mario-kart-64.zip",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/mario-kart-64.webp"
+  },
+  {
+    "Name": "Getting over it",
+    "URL": "https://raw.githack.com/LuminixServices/SeismeticV2/main/static/g_file/GettingOverItScratched.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gettingoverit.png"
+  },
+  {
+    "Name": "MrMine",
+    "URL": "https://www.coolmathgames.com/0-mr-mine/play",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/mrmine.webp"
+  },
+  {
+    "Name": "Snowball.io",
+    "URL": "https://games.crazygames.com/en_US/snowball-io/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/snowballio.webp"
+  },
+  {
+    "Name": "Paper Mario 64",
+    "URL": "https://f.kbhgames.com/r/n64/game.php?file=Paper%20Mario%20(USA).zip",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/paper-mario-64.webp"
+  },
+  {
+    "Name": "Drift Hunters",
+    "URL": "https://webglmath.github.io/drift-hunters/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/drift-hunters.webp"
+  },
+  {
+    "Name": "Smash Karts",
+    "URL": "https://smashkarts.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/smashkarts.webp"
+  },
+  {
+    "Name": "FRIV",
+    "URL": "https://www.friv.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/friv.png"
+  },
+  {
+    "Name": "Drift Boss",
+    "URL": "https://www.mathplayground.com/drift-boss-v3/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/splash.png"
+  },
+  {
+    "Name": "Cookie Clicker",
+    "URL": "https://orteil.dashnet.org/cookieclicker/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/cookie1.jpeg"
+  },
+  {
+    "Name": "Deepest Sword",
+    "URL": "https://rxfe-a.github.io/SeismeticAssets/deepest-sword/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/deepest-sword.webp"
+  },
+  {
+    "Name": "Interactive Buddy",
+    "URL": "https://f.silvergames.com/ruffle/player.php?id=204",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/interactive-buddy.webp"
+  },
+  {
+    "Name": "GBA Games",
+    "URL": "https://cattn.github.io/gba/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gba.webp"
+  },
+  {
+    "Name": "chess.com",
+    "URL": "https://chess.com",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/chess.webp"
+  },
+  {
+    "Name": "Ace Attorney",
+    "URL": "https://f.kbhgames.com/r/gba/?r=ace-attorney",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/aa.webp"
+  },
+  {
+    "Name": "Tanuki Sunset",
+    "URL": "https://watchdocumentaries.com/wp-content/uploads/games/tanuki-sunset",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/tanuki.png"
+  },
+  {
+    "Name": "3D Water Bottle Flip",
+    "URL": "https://games.crazygames.com/en_US/flip-bottle/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/flip.png"
+  },
+  {
+    "Name": "Capybara clicker",
+    "URL": "https://games.crazygames.com/en_US/capybara-clicker/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/Capybara.png"
+  },
+  {
+    "Name": "Sugar Sugar",
+    "URL": "https://66564262-37c6-4095-a731-535342e4bbe4.poki-gdn.com/5bd6e8c6-381d-4de5-9823-96662d29afaf/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/sugarsugar.webp"
+  },
+  {
+    "Name": "Sugar Sugar 2",
+    "URL": "https://games.crazygames.com/en_US/sugar-sugar-2/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/sugar-sugar-2.jpg"
+  },
+  {
+    "Name": "Crossy Road",
+    "URL": "https://assets.3kh0.net/crossyroad/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/crossyroad.png"
+  },
+  {
+    "Name": "Bloxorz",
+    "URL": "https://www.coolmathgames.com/0-bloxorz/play",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/bloxorz.png"
+  },
+  {
+    "Name": "Fortnite NVDIA",
+    "URL": "https://play.geforcenow.com/mall/#/deeplink?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/nvdianite.png"
+  },
+  {
+    "Name": "HoleIO",
+    "URL": "https://hole-io.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/Hole.io_logo.jpg"
+  },
+  {
+    "Name": "Monkey Mart",
+    "URL": "https://html5.gamemonetize.co/ugi7ftbv2kgodcq7vful9u9v34wein5z/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/mm.png"
+  },
+  {
+    "Name": "Cluster Rush",
+    "URL": "https://assets.3kh0.net/cluster-rush/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/cluster-rush.webp"
+  },
+  {
+    "Name": "osu!",
+    "URL": "https://raw.githack.com/LuminixServices/SeismeticV2/main/static/g_file/osu!/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/osu.png"
+  },
+  {
+    "Name": "Windows93",
+    "URL": "https://windows93.net",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/win93.png"
+  },
+  {
+    "Name": "Geekprank XP",
+    "URL": "https://geekprank.com",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/xp.png"
+  },
+  {
+    "Name": "Angry Birds",
+    "URL": "https://www.miniplay.com/helpers/game/sandbox.php?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=17597&mp_game_uid=angry-birds&mp_game_URL=https%3A%2F%2Fwww.miniplay.com%2Fembed%2Fangry-birds&mp_int=1&mp_locale=en_US&mp_player_type=FLASH&mp_player_URL=aHR0cHM6Ly93d3cubWluaWp1ZWdvc2dyYXRpcy5jb20vZmxhc2gxMjM0L25vX2hvdGxpbmsvYW5ncnliaXJkc2dhbWUuc3dm&mp_site_https_URL=https%3A%2F%2Fwww.miniplay.com%2F&mp_site_Name=miniplay.com&mp_site_URL=https%3A%2F%2Fwww.miniplay.com%2F&mp_timezone=America%2FLos_Angeles&mp_view_type=",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/angrybirds.jpg"
+  },
+  {
+    "Name": "Baldi Basics",
+    "URL": "https://baldisbasics.io/baldis-basics.embed",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/baldi.png"
+  },
+  {
+    "Name": "Geometry Dash",
+    "URL": "https://raw.githack.com/LuminixServices/SeismeticV2/main/static/g_file/geometry/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/geometry.jpg"
+  },
+  {
+    "Name": "Stickman Hook",
+    "URL": "https://webglmath.github.io/stickmanhook/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/stickman.png"
+  },
+  {
+    "Name": "BitLife",
+    "URL": "https://assets.3kh0.net/bitlife/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/bitlife.png"
+  },
+  {
+    "Name": "RetroArch",
+    "URL": "https://binbashbanana.github.io/webretro/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/retroarch.webp"
+  },
+  {
+    "Name": "2D Rocket League",
+    "URL": "https://v6p9d9t4.ssl.hwcdn.net/html/3325334/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/2D-Rocket-League.webp"
+  },
+  {
+    "Name": "South Park N64",
+    "URL": "https://f.kbhgames.com/r/n64/game.php?file=South-Park-U-.zip",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/Southpark_video_game_cover-1-.jpg"
+  },
+  {
+    "Name": "Shell Shockers",
+    "URL": "https://shellshock.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/shell-shockers.webp"
+  },
+  {
+    "Name": "Smash Bros 64",
+    "URL": "https://emulatorgames.online/games/n64/super-smash-bros",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/super-smash-bros-64.jpg"
+  },
+  {
+    "Name": "Cat ninja",
+    "URL": "https://images-opensocial.googleusercontent.com/gadgets/ifr?URL=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fcat-ninja.xml",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/cat-ninja.webp"
+  },
+  {
+    "Name": "Candy Box",
+    "URL": "https://candybox2.net",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/candybox.webp"
+  },
+  {
+    "Name": "Clicker Heroes",
+    "URL": "https://games.crazygames.com/en_US/clicker-heroes/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/clickerheroes.webp"
+  },
+  {
+    "Name": "Masked IO",
+    "URL": "https://unblocked-games.s3.amazonaws.com/games/masked-io/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/masked-forces.webp"
+  },
+  {
+    "Name": "Bonk IO",
+    "URL": "https://bonk.io/gameframe-release.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/Bonk.io.jpg"
+  },
+  {
+    "Name": "MX3M: Pool Party",
+    "URL": "https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?URL=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/mx3m.webp"
+  },
+  {
+    "Name": "Papa's Bakeria",
+    "URL": "https://f.silvergames.com/emu/waffle/?id=5458",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/bakeria.webp"
+  },
+  {
+    "Name": "Bill Gates Money",
+    "URL": "https://neal.fun/spend/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/billgates.jpg"
+  },
+  {
+    "Name": "Spaceplan",
+    "URL": "http://jhollands.co.uk/spaceplan/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/spaceplan.webp"
+  },
+  {
+    "Name": "Precision",
+    "URL": "https://assets.3kh0.net/precision-client/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/precision.webp"
+  },
+  {
+    "Name": "Helix Jump",
+    "URL": "https://files.crazygames.com/helix-jump/1/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/helix.jpg"
+  },
+  {
+    "Name": "Kirka",
+    "URL": "https://kirka.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/kirka.webp"
+  },
+  {
+    "Name": "Minecraft 1.5.2",
+    "URL": "https://sd592g.github.io/zj684od4lfg/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/MC.png"
+  },
+  {
+    "Name": "Cut the Rope",
+    "URL": "https://assets.3kh0.net/ctr/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/cutrope.jpg"
+  },
+  {
+    "Name": "Super Mario Bros",
+    "URL": "http://media.classicgames.me/html5/10925/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/supermari.webp"
+  },
+  {
+    "Name": "Unfold",
+    "URL": "https://games.crazygames.com/en_US/unfold-escape-room-puzzle/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/unfold.png"
+  },
+  {
+    "Name": "Stack",
+    "URL": "https://assets.3kh0.net/stack/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/stack.png"
+  },
+  {
+    "Name": "G-Switch",
+    "URL": "https://5dd24442-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/4f2c69b4-3edc-4cd7-a078-efd3d1ea9fb5/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gswitch.webp"
+  },
+  {
+    "Name": "3 Slices",
+    "URL": "https://images-opensocial.googleusercontent.com/gadgets/ifr?URL=https://rb.y2.ee/3slices/3slices.xml?v=1",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/3slices.jpg"
+  },
+  {
+    "Name": "G-Switch 2",
+    "URL": "https://5dd27095-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/e0e70ee4-fdd4-4de8-931d-fde7d1cb408b/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gswitch.webp"
+  },
+  {
+    "Name": "G-Switch 3",
+    "URL": "https://5dd2b395-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/120fdec6-7eeb-470f-a43c-9bcdace0dacb/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gswitch.webp"
+  },
+  {
+    "Name": "Pizza Tower",
+    "URL": "https://gamaverse.com/c/f/g/pizza-tower-1678640389/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/pizza-tower.webp"
+  },
+  {
+    "Name": "QWOP",
+    "URL": "https://images-opensocial.googleusercontent.com/gadgets/ifr?URL=https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if9dv@f47ef86439b4b88ffdcf239b8ce00752b6bf22f1/yj49ke/qwop.xml",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/qwop.jpg"
+  },
+  {
+    "Name": "Adventure Capitalist",
+    "URL": "https://than1089.github.io/adventure-capitalist/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/adventure-capitalist.webp"
+  },
+  {
+    "Name": "Among Us Scratch!",
+    "URL": "https://raw.githack.com/LuminixServices/SeismeticV2/main/static/g_file/sus.html.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/scratch-among-us.webp"
+  },
+  {
+    "Name": "Stickman Merge",
+    "URL": "https://4e634835-88c8-4de5-8ce4-341fe892a1e0.poki-gdn.com/e9056d93-d3b7-4235-be5c-21b4aa3484a9/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/stickman.png"
+  },
+  {
+    "Name": "SandBoxels",
+    "URL": "https://v6p9d9t4.ssl.hwcdn.net/html/5808591/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/sandboxels.webp"
+  },
+  {
+    "Name": "Saul Run",
+    "URL": "https://complex-ify.itch.io/saul-goodman",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/saulrun.webp"
+  },
+  {
+    "Name": "Blumgi Slime",
+    "URL": "https://3425b714-84ce-48c3-a4ef-fb044af25c1c.poki-gdn.com/8e7d7b1d-66bb-40ca-acca-4110df9b7db5/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/bungislime.png"
+  },
+  {
+    "Name": "Minecraft 1.8",
+    "URL": "https://sd592g.github.io/7djhs64tdp18/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/MC.png"
+  },
+  {
+    "Name": "Minecraft 1.5.2",
+    "URL": "https://sd592g.github.io/zj684od4lfg/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/MC.png"
+  },
+  {
+    "Name": "Minecraft Hacked",
+    "URL": "https://eagler.almondnet.cn/FuschiaX.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/MC.png"
+  },
+  {
+    "Name": "GeoFS",
+    "URL": "https://www.geo-fs.com/geofs.php?v=3.5",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/geofs.jpg"
+  },
+  {
+    "Name": "Riddle School 2",
+    "URL": "https://f.silvergames.com/ruffle/player.php?id=8564",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/rs1.webp"
+  },
+  {
+    "Name": "Pokemon Showdown",
+    "URL": "https://play.pokemonshowdown.com",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/showdown.webp"
+  },
+  {
+    "Name": "Evil Neighbor 2",
+    "URL": "https://games.crazygames.com/en_US/evil-neighbor-2/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/evilneighbo.jpg"
+  },
+  {
+    "Name": "Space is Key",
+    "URL": "https://www.coolmathgames.com/0-space-is-key/play",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/spac.png"
+  },
+  {
+    "Name": "Rythm Plus",
+    "URL": "https://rhythm-plus.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/rythm.png"
+  },
+  {
+    "Name": "Counter Strike",
+    "URL": "https://play-cs.com/en/servers",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/cs.png"
+  },
+  {
+    "Name": "Slow Roads",
+    "URL": "https://slowroads.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/slowroads.jpg"
+  },
+  {
+    "Name": "Airport 3D Clash",
+    "URL": "https://games.poki.com/458768/airportclash3d?tag=pg-v3.92.0&site_id=3&iso_lang=en&country=US&poki_URL=https://poki.com/en/g/airport-clash-3d&categories=3,76,77,385,929,1143&special_condition=landing",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/AirportClash3D.png"
+  },
+  {
+    "Name": "Unfair Mario",
+    "URL": "https://rxfe-a.github.io/unfair-web/WEB.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/unfair.png"
+  },
+  {
+    "Name": "Happy Wheels JS",
+    "URL": "https://totaljerkface.com/happy-wheels-js/index.tjf",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/happywheels.png"
+  },
+  {
+    "Name": "Exo",
+    "URL": "https://seismetic-assets-guestygit.vercel.app/exo",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/exogame.jpg"
+  },
+  {
+    "Name": "PaperMC",
+    "URL": "https://paper-mc.io/paper-minecraft.embed",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/paper.jpg"
+  },
+  {
+    "Name": "Gyroball",
+    "URL": "https://seismetic-assets.vercel.app/gyro/index.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gyroball.jpg"
+  },
+  {
+    "Name": "Tunnel Rush 2",
+    "URL": "https://seismetic-assets.vercel.app/tunnelrush-fix.html",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/tunnelrush2.png"
+  },
+  {
+    "Name": "Time Shooter 2",
+    "URL": "https://games.crazygames.com/en_US/time-shooter-2/index.html?v=1.267",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/timeshooter2.webp"
+  },
+  {
+    "Name": "Buckshot Roulette",
+    "URL": "https://buckshotroulette.online/game/v13/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/buckshotroulette.webp"
+  },
+  {
+    "Name": "Gun Spin",
+    "URL": "https://games.crazygames.com/en_US/gunspin/index.html?v=1.267",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/gunspin.webp"
+  },
+  {
+    "Name": "Fancade",
+    "URL": "https://play.fancade.com/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/fancade.jpg"
+  },
+  {
+    "Name": "Yandex Games",
+    "URL": "https://yandex.com/games/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/yandexgames.png"
+  },
+  {
+    "Name": "Fishing Ton",
+    "URL": "https://fishington.io/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/fishington.jpg"
+  },
+  {
+    "Name": "Tomb Of The mask",
+    "URL": "https://tombofthemask.github.io/g8/tomb-of-the-mask/",
+    "proxy": "default",
+    "Icon": "image/Assets/gamelist/tombofthemask.webp"
+  }
+]
